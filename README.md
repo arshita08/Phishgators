@@ -99,7 +99,7 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 ## 📜 **License**  
 
-Distributed under the MIT License. See `LICENSE` for more information.  
+Distributed under the MIT License. 
 
 ---
 
