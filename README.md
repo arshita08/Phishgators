@@ -106,3 +106,10 @@ Distributed under the MIT License.
 Feel free to open issues or submit pull requests to help us improve PhishGator!  
 
 ---
+
+📬 Contact
+Arshita Sharma – asharm42@vols.utk.edu
+Devanshi Patel - dpate139@vols.utk.edu
+Sai Deepika Dasari - sdasari7@vols.utk.edu
+
+
