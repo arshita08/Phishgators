@@ -60,15 +60,17 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
    git clone https://github.com/your-username/PhishGator.git  
    ```  
 
-2. **Install Dependencies**  
+2. **Open the Notebook**  
+   Launch Jupyter Notebook or Jupyter Lab, and open the `PhishGator.ipynb` file to explore and run the code.  
+
+3. **Install Required Libraries**  
+   If any libraries are missing, install them using `pip`. You can use the following command to ensure all dependencies are available:  
    ```bash  
    pip install -r requirements.txt  
    ```  
 
-3. **Run the Detection System**  
-   ```bash  
-   python run_phishgator.py  
-   ```  
+4. **Run the Detection System**  
+   Execute the cells in the Jupyter Notebook to perform phishing detection and view results.  
 
 ---
 
@@ -97,7 +99,7 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 ## 📜 **License**  
 
-Distributed under the MIT License. 
+Distributed under the MIT License. See `LICENSE` for more information.  
 
 ---
 
@@ -106,10 +108,16 @@ Distributed under the MIT License.
 Feel free to open issues or submit pull requests to help us improve PhishGator!  
 
 ---
+ 
+## 📬 **Contact**
 
-📬 Contact
 Arshita Sharma – asharm42@vols.utk.edu
 Devanshi Patel - dpate139@vols.utk.edu
 Sai Deepika Dasari - sdasari7@vols.utk.edu
+
+```
+
+This README assumes users will run the code using the Jupyter Notebook (`PhishGator.ipynb`) and ensures the installation instructions align with this usage. Let me know if further tweaks are needed! 😊
+---
 
 
