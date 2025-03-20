@@ -1,11 +1,11 @@
 # 🐊 **PhishGator**  
 ### **Protect Your Credentials, Secure Your Web**  
 
-PhishGator is an advanced, machine-learning-based system designed to detect and thwart password-stealing phishing attacks using innovative HTML template analysis. 🚀  
+PhishGator is an advanced, machine-learning-based system designed to detect and thwart password-stealing phishing attacks using innovative HTML template analysis  
 
 ---
 
-## ✨ **Features**  
+##  **Features**  
 
 - **🛡️ Dual-Layer Detection**  
   Combines phishing website identification with credential-theft analysis for enhanced security.  
@@ -15,11 +15,11 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 - **🔍 Comprehensive Feature Analysis**  
   Analyzes 32 URL and HTML-based features, such as:  
-  - IP Address presence 🌐  
-  - HTTPS usage 🔒  
-  - Keylogging detection 📝  
+  - IP Address presence   
+  - HTTPS usage   
+  - Keylogging detection   
 
-- **📈 Advanced Reporting**  
+- **Advanced Reporting**  
   Categorizes websites as:  
   - Safe ✅  
   - Phishing 🚨  
@@ -27,7 +27,7 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 ---
 
-## 🔧 **How It Works**  
+##  **How It Works**  
 
 1. **Feature Extraction**  
    PhishGator evaluates indicators like URL structure, form security, and script behaviors.  
@@ -42,13 +42,13 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 ## 🎯 **Use Cases**  
 
-- **🖥️ Browser Extensions**  
+- **Browser Extensions**  
   Provide real-time phishing alerts while users browse.  
 
-- **🏢 Enterprise Security**  
+- **Enterprise Security**  
   Monitor and secure networks against phishing threats.  
 
-- **📚 Training Tools**  
+- **Training Tools**  
   Educate users about phishing behaviors and prevention techniques.  
 
 ---
@@ -89,21 +89,21 @@ PhishGator is an advanced, machine-learning-based system designed to detect and 
 
 ---
 
-## 🌟 **Future Enhancements**  
+## 💡  **Future Enhancements**  
 
-- Real-time detection integration 🕒  
-- Dynamic content behavior analysis 💡  
-- Improved scalability for enterprise environments 🌍  
+- Real-time detection integration  
+- Dynamic content behavior analysis   
+- Improved scalability for enterprise environments   
 
 ---
 
-## 📜 **License**  
+## **License**  
 
 Distributed under the MIT License. 
 
 ---
 
-## ❤️ **Contributions Welcome**  
+## **Contributions Welcome**  
 
 Feel free to open issues or submit pull requests to help us improve PhishGator!  
 
@@ -112,10 +112,3 @@ Feel free to open issues or submit pull requests to help us improve PhishGator!
 ## 📬 **Contact**
 
 Arshita Sharma – asharm42@vols.utk.edu
-
-```
-
-This README assumes users will run the code using the Jupyter Notebook (`PhishGator.ipynb`) and ensures the installation instructions align with this usage. Let me know if further tweaks are needed! 😊
----
-
-
