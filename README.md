@@ -116,7 +116,3 @@ Feel free to open issues or submit pull requests to help improve PhishGator!
 Arshita Sharma – [arshitasharma08@gmail.com](mailto:arshitasharma08@gmail.com)
 
 ```
-
-
-Do you also want me to **reframe your second project (Policy Compliance Dashboard)** in the same polished README style, so both look consistent?
-```
