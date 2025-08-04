@@ -59,7 +59,7 @@ PhishGator is a machine-learning–based Trust & Safety tool designed to review 
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/your-username/PhishGator.git  
-````
+
 
 2. **Open the Notebook**
    Launch Jupyter Notebook or Jupyter Lab, and open the `PhishGator.ipynb` file.
