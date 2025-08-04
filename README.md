@@ -1,4 +1,4 @@
-# 🐊 **PhishGator**  
+**# 🐊 **PhishGator**  
 ### **Protect Your Credentials, Secure Your Web**  
 
 PhishGator is an advanced, machine-learning-based system designed to detect and thwart password-stealing phishing attacks using innovative HTML template analysis  
@@ -111,4 +111,4 @@ Feel free to open issues or submit pull requests to help us improve PhishGator!
  
 ## 📬 **Contact**
 
-Arshita Sharma – asharm42@vols.utk.edu
+Arshita Sharma – arshitasharma08@gmail.com
