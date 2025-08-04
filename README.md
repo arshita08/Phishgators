@@ -1,4 +1,4 @@
-**# 🐊 **PhishGator**  
+**# 🐊 PhishGator**  
 ### **Protect Your Credentials, Secure Your Web**  
 
 PhishGator is an advanced, machine-learning-based system designed to detect and thwart password-stealing phishing attacks using innovative HTML template analysis  
